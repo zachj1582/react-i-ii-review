@@ -2,7 +2,7 @@
 
 Use https://reactjs.org/docs/react-component.html#the-component-lifecycle and http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/ to answer these on your own then compare answers as a group
 
-1.  Each component has several "lifecycle methods" that you can override to...?
+1.  Each component has several "lifecycle methods" that you can override to do what?
 
 2.  What are the 4 categories of lifecycle methods? (these are the headings from the first link)
 
@@ -38,4 +38,4 @@ class Mentor extends Component {
 
 Try these on your own, but work together if you start to get stuck.
 
-5.  Update the Mentor component above so that the message that is currently being console.log'd is displayed below the number of questions answered instead.
+5.  Update the `Mentor` component above so that the message that is currently being console.log'd is displayed below the number of questions answered instead.

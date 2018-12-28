@@ -22,9 +22,11 @@ import React, { Component } from "react";
 class Queue extends Component {
   constructor(props) {
     super(props);
+
     this.state = {
       questions: []
     };
+    
     this.askQuestion = this.askQuestion.bind(this);
     this.answerQuestion = this.answerQuestion.bind(this);
   }

@@ -24,6 +24,7 @@ class LeadMentor extends Component {
     this.state = {
       questionsAnswered: 0
     };
+
     this.handleClick = this.handleClick.bind(this);
   }
   handleClick() {
@@ -44,7 +45,7 @@ class LeadMentor extends Component {
 
 Try these on your own, but work together if you start to get stuck.
 
-5.  Create a Student component that keeps track of the number of questions the student has asked, with a button that adds 1 to the total when it's clicked
+5.  Create a `Student` component that keeps track of the number of questions the student has asked, with a button that adds 1 to the total when it's clicked
 
 6.  Now add a text input where the student can type in their questions with a button to add them to a list of questions that is displayed below the number of questions asked.
 
@@ -52,7 +53,7 @@ Try these on your own, but work together if you start to get stuck.
 
 Discuss these questions as a group
 
-7.  Could your Student component be refactored into a functional component? Why or why not?
+7.  Could your `Student` component be refactored into a functional component? Why or why not?
 
 8.  What are the pros and cons of using a class method for an event handler vs. using an arrow function inline?
 
