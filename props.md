@@ -26,7 +26,7 @@ class Queue extends Component {
     this.state = {
       questions: []
     };
-    
+
     this.askQuestion = this.askQuestion.bind(this);
     this.answerQuestion = this.answerQuestion.bind(this);
   }
@@ -55,7 +55,7 @@ class Queue extends Component {
 
 Try these on your own, but work together if you start to get stuck.
 
-6.  Using the Queue component above, create a Student component that can add a question as a string and a Mentor component that can remove a question from the array.
+6.  Using the `Queue` component above, create a `Student` component that can add a question as a string and a `Mentor` component that can remove a question from the array.
 
 ### Analyze, Evaluate, Create
 
