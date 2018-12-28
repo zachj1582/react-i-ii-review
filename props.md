@@ -6,15 +6,17 @@ Answer these on your own, then compare answers as a group
 
 2.  How do you pass props from a parent to a child?
 
-3.  How do you access props from a child component?
+3.  How do you access props from a class based child component?
 
-4.  How do you bind a function to a parent component so that it can be passed to a child?
+4.  How do you access props from a functional component?
+
+5.  How do you bind a function to a parent component so that it can be passed to a child?
 
 ### Understand
 
 Discuss this question in pairs if you have a 4-person group
 
-5.  What's happening in this component?
+6.  What's happening in this component?
 
 ```jsx
 import React, { Component } from "react";
@@ -55,10 +57,10 @@ class Queue extends Component {
 
 Try these on your own, but work together if you start to get stuck.
 
-6.  Using the `Queue` component above, create a `Student` component that can add a question as a string and a `Mentor` component that can remove a question from the array.
+7.  Using the `Queue` component above, create a `Student` component that can add a question as a string and a `Mentor` component that can remove a question from the array.
 
 ### Analyze, Evaluate, Create
 
 Discuss these questions as a group
 
-7.  In the Queue component above, why are we holding state in the Queue component instead of Mentor or Student?
+8.  In the Queue component above, why are we holding state in the Queue component instead of Mentor or Student?

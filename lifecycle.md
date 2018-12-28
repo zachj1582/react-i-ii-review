@@ -2,7 +2,7 @@
 
 Use https://reactjs.org/docs/react-component.html#the-component-lifecycle and http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/ to answer these on your own then compare answers as a group
 
-1.  Each component has several "lifecycle methods" that you can override to do what?
+1.  Each component has several `lifecycle methods` that you can override to do what?
 
 2.  What are the 4 categories of lifecycle methods? (these are the headings from the first link)
 
