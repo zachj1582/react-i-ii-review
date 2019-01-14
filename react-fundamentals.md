@@ -46,7 +46,7 @@ Try these on your own, but work together if you start to get stuck.
 
 10.  Use `create-react-app` to create a new React application called `student-directory`
 
-11.  Use the code from `Student` above to create a new component called `User` with a list of friends. Hard code the list of friends, do not use state or props.
+11.  Use the code from `Mentor` above to create a new functional, stateless component called `User` with a list of friends. Hard code the list of friends, do not use state or props.
 
 ### Analyze, Evaluate, Create
 
