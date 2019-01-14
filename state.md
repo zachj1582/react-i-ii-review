@@ -28,7 +28,7 @@ class LeadMentor extends Component {
     this.handleClick = this.handleClick.bind(this);
   }
   handleClick() {
-    this.setState({ questionsAnswered: questionsAnswered + 1 });
+    this.setState({ questionsAnswered: this.state.questionsAnswered + 1 });
   }
   render() {
     <div className="lead-mentor-container">
