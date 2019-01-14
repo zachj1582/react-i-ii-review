@@ -18,7 +18,7 @@ Answer these on your own, then compare answers as a group
 
 Discuss these questions in pairs if you have a 4-person group
 
-7.  Summarize what happens when you run `create-react-app myApp`
+7.  Summarize what happens when you run `create-react-app my-app`
 
 8.  Explain what this code does:
 
