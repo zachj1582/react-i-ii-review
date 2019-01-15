@@ -18,7 +18,7 @@ Answer these on your own, then compare answers as a group
 
 Discuss these questions in pairs if you have a 4-person group
 
-7.  Summarize what happens when you run `create-react-app myApp`
+7.  Summarize what happens when you run `create-react-app my-app`
 
 8.  Explain what this code does:
 
@@ -46,7 +46,7 @@ Try these on your own, but work together if you start to get stuck.
 
 10.  Use `create-react-app` to create a new React application called `student-directory`
 
-11.  Use the code from `Student` above to create a new component called `User` with a list of friends. Hard code the list of friends, do not use state or props.
+11.  Use the code from `Mentor` above to create a new functional, stateless component called `User` with a list of friends. Hard code the list of friends, do not use state or props.
 
 ### Analyze, Evaluate, Create
 
