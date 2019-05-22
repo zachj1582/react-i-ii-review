@@ -6,7 +6,7 @@ Use https://reactjs.org/docs/react-component.html#the-component-lifecycle and ht
 
 2.  What are the 4 categories of lifecycle methods? (these are the headings from the first link)
 
-3.  What are the names of the 6 commonly used lifecycle methods? (these are in bold in the first link)
+3.  What are the names of the 5 commonly used lifecycle methods? (these are in bold in the first link)
 
 ### Understand
 
