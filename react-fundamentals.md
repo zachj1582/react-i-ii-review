@@ -3,24 +3,31 @@
 Answer these on your own, then compare answers as a group
 
 1.  What is React?
+  JavaScript library
 
 2.  What is create-react-app?
+  command to create a new react app downloading all of the necasaries
 
 3.  What is Component Based Architecture?
+  breaks up code into smaller more manageable chunks
 
 4.  What is JSX?
+  is a syntactical way of writing JS that incorporates html
 
 5.  What is the virtual DOM?
+  it communicates with the actual dom to only update changes instead of refreshing the entire dom with every update
 
 6.  What is unidirectional (one-way) data flow?
-
+ data only flows in one direction, in react it only flows down (parent to child)
 ### Understand
 
 Discuss these questions in pairs if you have a 4-person group
 
 7.  Summarize what happens when you run `create-react-app my-app`
+  your computer make a JS library called my app
 
 8.  Explain what this code does:
+  this is creating a functional(dumb) component that will be used to build a list section on a webpage
 
 ```jsx
 import React from "react";
@@ -39,6 +46,7 @@ export default Mentor;
 ```
 
 9.  Explain how data is passed from a parent component to a child component.
+  with the props tag; in the parent you assign it to the child component tag, in the child component you reference the data with the props tag to incorporate the contained data into the component
 
 ### Apply
 
